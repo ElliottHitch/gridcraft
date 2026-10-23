@@ -31,7 +31,7 @@
     <Icon Id="GridcraftIcon.ico" SourceFile="$(var.IconPath)" />
     <Property Id="ARPPRODUCTICON" Value="GridcraftIcon.ico" />
     <Property Id="ARPURLINFOABOUT" Value="https://getartcraft.com/apps/gridcraft" />
-    <Property Id="ARPURLUPDATEINFO" Value="https://getartcraft.com/apps/gridcraft" />
+    <Property Id="ARPURLUPDATEINFO" Value="https://github.com/ElliottHitch/gridcraft/releases" />
     <Property Id="ARPHELPLINK" Value="https://discord.gg/artcraft" />
 
     <!-- An explicit command-line value wins. Otherwise retain the previous installation's
